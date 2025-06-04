@@ -8,7 +8,7 @@ import People
 import scp
 import cifs
 
-# SMB to veeam.consys.it
+# Configuration paramters
 remote_hostname = "veeam.consys.it"
 remote_hostip = "192.168.11.16"
 remote_share = "Consys"
