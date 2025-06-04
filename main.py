@@ -17,7 +17,7 @@ pwd = "Parampa1994!"
 remote_path = 'DeskPro_Backup'
 local_path = '/var/deskpro/Backup_files'
 
-
+# Start backup procedures
 Agents.get_data()
 Organizations.get_data()
 People.get_data()
